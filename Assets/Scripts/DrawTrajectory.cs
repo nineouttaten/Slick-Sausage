@@ -44,7 +44,6 @@ public class DrawTrajectory : MonoBehaviour
         _linePoints.Add(startingPoint);
 
         for (int i = 1; i < _linePointCount; i++)
-        //for (int i = 1; i < _lineSegmentCount; i++)
         {
             float stepTimePassed = stepTime * i * 1.5f;
 
