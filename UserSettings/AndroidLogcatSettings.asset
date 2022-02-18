@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "34HDU19708004360",
         "name": "com.DefaultCompany.slicksausage",
-        "processId": 19626,
+        "processId": 23324,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -108,6 +108,12 @@
             "deviceId": "34HDU19708004360",
             "name": "com.DefaultCompany.slicksausage",
             "processId": 19626,
+            "exited": false
+        },
+        {
+            "deviceId": "34HDU19708004360",
+            "name": "com.DefaultCompany.slicksausage",
+            "processId": 23324,
             "exited": false
         }
     ],

@@ -5,6 +5,8 @@ public class DeathScript : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene(2);
+        Sausage.timer = 0;
+        Sausage.reversed = false;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
