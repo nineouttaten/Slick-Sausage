@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ChangeInput : MonoBehaviour
 {
-    public Sausage sausage;
     private bool active;
     public GameObject[] sausageArray;
     public Material blue;
